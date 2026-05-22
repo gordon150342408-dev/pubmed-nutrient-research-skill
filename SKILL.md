@@ -1,6 +1,6 @@
 ---
 name: pubmed-nutrient-research
-description: PubMed 营养素文献搜索与证据提取工具。搜索 PubMed 数据库，提取营养素功效结论、证据等级（Oxford CEBM）、GRADE 质量评分，支持手动输入、Excel/CSV、PDF、图片识别多种营养素输入方式。触发词：营养素搜索、PubMed搜索、文献检索、证据提取、营养素功效、CEBM评级、GRADE评分
+description: PubMed 营养素文献搜索与证据提取工具。搜索 PubMed 数据库，提取营养素功效结论、作用机制、证据等级（Oxford CEBM）、GRADE 质量评分，支持手动输入、Excel/CSV、PDF、图片识别多种营养素输入方式。触发词：营养素搜索、PubMed搜索、文献检索、证据提取、营养素功效、作用机制、功效描述、CEBM评级、GRADE评分
 allowed-tools: Read, Write, Bash
 ---
 
